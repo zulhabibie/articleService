@@ -26,4 +26,4 @@ DB_PASSWORD=db_password
 ]
 
 ## Thanks
-webservice hanya baru endpoint untuk show, akk dan delete saja
+webservice hanya baru endpoint untuk show, all dan delete saja
